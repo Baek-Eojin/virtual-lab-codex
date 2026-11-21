@@ -1,0 +1,4 @@
+interface:
+  display_name: "Virtual Lab"
+  short_description: "Review research in Codex without a separate API key"
+  default_prompt: "Use $virtual-lab in Codex mode, without an API, to review my research question."
